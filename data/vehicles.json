@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mitsubishi",
+        "type": "BMW",
+        "price": "1200",
+        "image": "https:\/\/th.bing.com\/th\/id\/R.7a85f05eb2a3962d802b3171c11824f0?rik=VQkdKmQyozYItQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Toyota",
+        "type": "Car",
+        "price": "2000",
+        "image": "https:\/\/th.bing.com\/th\/id\/R.b4290b2cf6217d205ff6c12ce810acb3?rik=Y0UlClMLsc%2bxwg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Nissan",
+        "type": "Car",
+        "price": "1223",
+        "image": "https:\/\/www.gannett-cdn.com\/-mm-\/fca01e9d00705102f9da3858ee0b586ef3cb3e26\/c=627-1181-4201-3200&r=x1683&c=3200x1680\/local\/-\/media\/2017\/05\/08\/DetroitFreeP\/DetroitFreePress\/636298566791321344-2017-Nissan-Rogue-Sport-01.jpg"
+    }
+]
